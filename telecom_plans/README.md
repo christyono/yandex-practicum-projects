@@ -56,4 +56,12 @@ Consolidate data, analyze it, and conduct statistical hypothesis testing to dete
 
 ## Libraries used:
 
-*pandas*, *numpy*, *math*, *scipy*, *functools*
+pandas
+
+numpy
+
+math
+
+scipy
+
+functools
