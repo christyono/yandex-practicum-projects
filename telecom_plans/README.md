@@ -63,5 +63,3 @@ numpy
 math
 
 scipy
-
-functools
